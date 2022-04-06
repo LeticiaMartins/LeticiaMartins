@@ -26,10 +26,10 @@
 <br>
 <br>
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leticiamartins&show_icons=true&locale=en&theme=chartreuse-dark" alt="leticiamartins" />
+<a href="https://github.com/LeticiaMartins">
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=leticiamartins&show_icons=true&locale=en&theme=chartreuse-dark" alt="leticiamartins" />
 </a>
 
-<a href="">
+<a href="https://github.com/LeticiaMartins">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiamartins&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="leticiamartins" />
 </a>
