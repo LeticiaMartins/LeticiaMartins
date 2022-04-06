@@ -25,9 +25,10 @@
 
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiamartins&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="leticiamartins" /></p>
-<br>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=leticiamartins&show_icons=true&locale=en&theme=chartreuse-dark" alt="leticiamartins" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=leticiamartins&show_icons=true&locale=en&theme=chartreuse-dark" alt="leticiamartins" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiamartins&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="leticiamartins" /></p>
+
 
 
 
