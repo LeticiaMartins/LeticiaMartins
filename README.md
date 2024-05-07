@@ -3,7 +3,9 @@
 <br>
 
 
-- 🔭 I’m currently working as **a development intern at Banco ABC.**
+- 🎯 I´m looking for **Software Development** or **Data Analysis opportunities** as an **intern or junior**
+  
+- 🔭 I was **a development intern at Banco ABC.** for 2 years!
 
 - 🌱 I’m currently **applying my knowledge as a junior programmer and continuing to improve in the programming area.**
 
