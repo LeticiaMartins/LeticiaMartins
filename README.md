@@ -12,6 +12,16 @@
 
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLeticiaMartins&s=30&c=740806&bg=00000000&no=3&ff=alien&tb=&ta=++Visitors+)
 
+<br>
+
+## Check out my website!
+
+Visit my personal website to explore my projects and more: [Leticia Martins - My Website](https://leticiamartins-mywebsite.vercel.app/)
+<br>
+<br>
+
+
+
 <h3 align="left">Connect with me:</h3>
 	<p align="left">
 		<a href="https://www.linkedin.com/in/leticiamartinsbandeira/" target="blank">
