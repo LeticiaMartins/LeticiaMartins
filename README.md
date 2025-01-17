@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [https://linktr.ee/LeticiaMartinsCode](https://linktr.ee/LeticiaMartinsCode)
 <br>
 
-
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FLeticiaMartins&s=30&c=740806&bg=00000000&no=3&ff=alien&tb=&ta=++Visitors+)
 
 <h3 align="left">Connect with me:</h3>
 	<p align="left">
@@ -23,16 +23,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,html,git,js,ts,angular,sass,mysql,dotnet,cs,postman,aws,py,anaconda,pycharm,azure,discord,github,notion,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=angular,react,sass,tailwind,dotnet,cs,postman,aws,py,azure,discord,notion,visualstudio,vscode" />
   </a>
 </p>
 
 <br>
 <br>
-
-<a href="https://github.com/LeticiaMartins">
-  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=leticiamartins&show_icons=true&locale=en&theme=chartreuse-dark" alt="leticiamartins" />
-</a>
 
 <a href="https://github.com/LeticiaMartins">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leticiamartins&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="leticiamartins" />
